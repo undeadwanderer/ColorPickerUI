@@ -5,7 +5,7 @@ An ColorPicker for skin authors with a lot of options. Happy skinning!
 https://user-images.githubusercontent.com/77834863/134878784-ce2bcd9e-5de2-45e3-9c1a-827629fba65f.mp4
 
 ## Changes from the original:
-- The color picker now shows the element's previous color to on initialization.
+- The color picker now shows the element's previous color on initialization.
 - A minor typo fix in functions.lua.
 
 ## Usage Instructions:
